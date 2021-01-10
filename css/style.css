@@ -128,11 +128,12 @@ header {
   width: 50%;
   height: auto;
   display: block;
+  margin-bottom: -5%;
 }
 
 .skills img,
 .technics img {
-  height: 70%;
+  height: 60%;
   width: 90%;
 }
 
